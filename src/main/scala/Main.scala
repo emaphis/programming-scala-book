@@ -1,3 +1,5 @@
+// Example Main Application that finds Scala compiler version
+
 @main def hello(): Unit =
   println("Hello world!")
   println(msg)
