@@ -40,9 +40,3 @@ Sat.fullName == "Saturday"
 Sat.ordinal == 6
 !Sat.isWorkingDay
 WeekDay.valueOf("Sat") == Sat
-
-
-
-
-
-
