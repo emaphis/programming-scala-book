@@ -2,7 +2,7 @@
 // src/main/scala/progscala3/typelessdomore/optional_new.sc
 
 class Person(name: String, age: Int):
-    def this() = this ("unknown", 0)
+    def this() = this ("unknown", 0)  // Auxiliary constructor
 
 
 import java.io.File
